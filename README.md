@@ -115,7 +115,7 @@ Contributions, issues, and feature requests are welcome. Feel free to open an is
 
 ## 👤 Author
 
-**Ansh Mishra** and Special thanks to ayushi mishra for this she was the inspiration behind this and without her i wont be able to this 
-highly suggest to go and checkout her youtube channel.
+**Ansh Mishra** and Special thanks to Ayushi mishra for this she was the inspiration behind this and without her , i wont be able to do this .
+i would highly suggest to go and checkout her youtube channel.
 
 Designed and built FLAGGERR — from data pipeline to UI. 
